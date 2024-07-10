@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This project is part of my internship at Oasis Infobyte, where I conducted a comprehensive Exploratory Data Analysis (EDA) on a retail sales dataset. The aim was to uncover patterns, trends, and insights that can help retail businesses make informed decisions.
+This project is part of my internship at Oasis Infobyte, where I conducted a comprehensive Exploratory Data Analysis (EDA) 
+on a retail sales dataset. The aim was to uncover patterns, trends, and insights that can help retail businesses make informed decisions.
 
 ## Project Overview
 
@@ -47,15 +48,16 @@ Google Colab
 
 ## Key Findings
 
-- **Sales Trend:** Sales trends showed significant fluctuations over time.
-- **Transaction Frequency:** The highest transaction frequency was observed in May.
-- **Product Categories:** Electronics and clothing were the highest-selling categories.
-- **Customer Demographics:** A balanced gender distribution with a slight majority of female customers; the most common age group was around 40 years old.
-- **Purchasing Behavior:** Customers frequently bought items in the $0-$250 range, with a notable group of high spenders.
-- **Seasonal Patterns:** January had the highest sales, with noticeable spikes in February, March, July, and August.
-- **Correlations:** Strong correlations between quantity purchased and total amount spent, indicating consistent spending patterns.
+- Sales Trend: Sales trends showed significant fluctuations over time.
+- Transaction Frequency: The highest transaction frequency was observed in May.
+- Product Categories: Electronics and clothing were the highest-selling categories.
+- Customer Demographics: A balanced gender distribution with a slight majority of female customers; the most common age group was around 40 years old.
+- Purchasing Behavior: Customers frequently bought items in the $0-$250 range, with a notable group of high spenders.
+- Seasonal Patterns: January had the highest sales, with noticeable spikes in February, March, July, and August.
+- Correlations: Strong correlations between quantity purchased and total amount spent, indicating consistent spending patterns.
 
 ## Conclusion
 
-This project provided valuable insights into retail sales data, helping businesses optimize strategies and drive growth. The analysis revealed key trends in sales, customer demographics, purchasing behavior, and product performance.
+This project provided valuable insights into retail sales data, helping businesses optimize strategies and drive growth. 
+The analysis revealed key trends in sales, customer demographics, purchasing behavior, and product performance.
 

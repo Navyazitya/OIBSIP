@@ -23,3 +23,19 @@ Tools Used
 
 Visualizations
 - Interactive scatter plots, histograms, and word clouds using Plotly.
+
+ How to Run the Project
+
+1. Clone the repository:
+
+   git clone https://github.com/yourusername/customer-segmentation-analysis.git
+   
+
+2. Install the required libraries:
+   
+   pip install pandas numpy matplotlib seaborn scikit-learn
+   
+
+3. Open and run the notebook in your preferred IDE (e.g., Jupyter Notebook, Google Colaboratory).
+
+

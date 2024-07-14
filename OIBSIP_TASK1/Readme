@@ -61,3 +61,20 @@ Conclusion
 This project provided valuable insights into retail sales data, helping businesses optimize strategies and drive growth. 
 The analysis revealed key trends in sales, customer demographics, purchasing behavior, and product performance.
 
+
+How to Run the Project
+
+1. Clone the repository:
+  
+   git clone https://github.com/yourusername/customer-segmentation-analysis.git
+
+
+2. Install the required libraries:
+ 
+   pip install pandas numpy matplotlib seaborn scikit-learn
+   
+
+3. Open and run the notebook in your preferred IDE (e.g., Jupyter Notebook, Google Colaboratory).
+
+
+

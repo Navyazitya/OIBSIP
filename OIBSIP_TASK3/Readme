@@ -1,1 +1,25 @@
-hjch
+Google Play Store Data Analysis
+
+Overview
+This repository contains code and analysis for analyzing Google Play Store data, focusing on app metrics and user sentiment.
+
+Here are the project highlights:
+
+Title: Unveiling the Android App Market Analysis
+Dataset: [https://www.kaggle.com/datasets/utshabkumarghosh/android-app-market-on-google-play]
+IDE: Jupyter Notebook
+
+Project Highlights
+- Data Cleaning: Removed duplicates, handled missing values, and standardized data formats.
+- Exploratory Data Analysis (EDA): Explored distributions, relationships, and trends in the data.
+- Metrics Analysis: Examined app ratings, sizes, popularity trends, and pricing.
+- Sentiment Analysis: Assessed user sentiments through reviews, identifying dominant positive sentiments.
+
+Tools Used
+- Python
+- Pandas, NumPy for data manipulation
+- Matplotlib, Seaborn, Plotly for data visualization
+- NLTK for sentiment analysis
+
+Visualizations
+- Interactive scatter plots, histograms, and word clouds using Plotly.

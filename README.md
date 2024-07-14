@@ -1,7 +1,4 @@
 # OIBSIP
-Certainly! Here's the combined README for the three projects as part of your Oasis Infobyte internship:
-
----
 
 # Oasis Infobyte Internship Projects
 

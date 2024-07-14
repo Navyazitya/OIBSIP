@@ -1,1 +1,86 @@
-ajdhkj
+# Customer Segmentation Analysis
+
+🚀 **Oasis Infobyte Internship Project**
+
+## Project Overview
+
+This project focuses on segmenting customers based on their purchasing behavior and demographics using various data analysis and machine learning techniques. The goal is to understand different customer segments to tailor marketing strategies better and improve customer engagement.
+
+## Dataset
+
+- **Source:** [Link to Dataset](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
+
+## Tools and Technologies
+
+- **IDE:** Google Colaboratory
+- **Programming Language:** Python
+- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
+
+## Project Structure
+
+### 1. Introduction
+Provides an overview of the project, including objectives and significance.
+
+### 2. Data Preparation and Cleaning
+- Loaded the dataset
+- Handled missing values
+- Ensured data types were correct for further analysis
+
+### 3. Exploratory Data Analysis (EDA)
+- Conducted descriptive statistics
+- Created visualizations to explore data distributions and correlations
+
+### 4. Feature Engineering
+- Created new features like `MntTotal` and `NumTotalPurchases` to enhance the analysis
+
+### 5. K-Means Clustering
+- Applied K-Means clustering to segment customers into distinct groups
+
+### 6. Standardizing Data
+- Standardized the data to ensure equal contribution of each feature to the analysis
+
+### 7. Principal Component Analysis (PCA)
+- Used PCA to reduce data dimensionality and visualize the clusters
+
+### 8. Determining Optimal Number of Clusters
+- Used the Elbow Method and Silhouette Score to identify the optimal number of clusters
+
+### 9. Cluster Visualization
+- Provided visual representations of the clusters
+
+### 10. Cluster Characteristics
+- Analyzed the characteristics of each cluster, including demographics and purchasing patterns
+
+### 11. Results
+Summarizes the findings from the clustering analysis and their implications for business strategy.
+
+### 12. Conclusion
+Concludes the analysis with key takeaways, potential actions based on the customer segments, and areas for further research.
+
+## Key Findings
+
+- Identified distinct customer segments with varying purchasing behaviors and demographics.
+- Provided insights to help tailor marketing strategies and improve customer engagement.
+
+## Visualizations
+
+### PCA of Customer Segments
+![PCA of Customer Segments](link_to_pca_plot.png)
+
+### Average Total Spend by Cluster
+![Average Total Spend by Cluster](link_to_total_spend_plot.png)
+
+## How to Run the Project
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/customer-segmentation-analysis.git
+    ```
+
+2. Install the required libraries:
+    ```bash
+    pip install pandas numpy matplotlib seaborn scikit-learn
+    ```
+
+3. Open and run the notebook in your preferred IDE (e.g., Jupyter Notebook, Google Colaboratory).
+
